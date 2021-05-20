@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @buffkermitisagod
 - 👀 I’m interested in ethical hacking and coding
-- 🌱 I’m currently learning c# and then java
+- 🌱 I’m currently learning c++ and then java
 - 💞️ I’m looking to collaborate on anything
 
 <!---
