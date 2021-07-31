@@ -1,7 +1,7 @@
-name: Hi, I’m @toxic-development
-intrest: I’m interested in ethical hacking, malware anayasis and coding
-learning: I’m currently learning c++ and then java
-colab: I’m looking to collaborate on anything in c#, c++ and python
+- name: Hi, I’m @toxic-development
+- intrest: I’m interested in ethical hacking, malware anayasis and coding
+- learning: I’m currently learning c++ and then java
+- colab: I’m looking to collaborate on anything in c#, c++ and python
 
 <!---
 - 📫 How to reach me
