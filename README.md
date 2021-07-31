@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @toxic-development
-- 👀 I’m interested in ethical hacking and coding
-- 🌱 I’m currently learning c++ and then java
-- 💞️ I’m looking to collaborate on anything
+- Hi, I’m @toxic-development
+- I’m interested in ethical hacking, malware anayasis and coding
+- I’m currently learning c++ and then java
+- I’m looking to collaborate on anything in c#, c++ and python
 
 <!---
 - 📫 How to reach me
